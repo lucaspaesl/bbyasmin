@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(188, 0, 0);
+}
+h1{
+    font-size: 40px;
+    font-family: Arial;
+    background-color:rgb(255, 0, 0);
+    padding: 10px; 
+    margin-right: 8px;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    font-family: Arial;
+    background-color:red;
+    padding: 10px; 
+    margin-right: 60px;
+    float: left;
+}
+h3{
+    font-size: 40px;
+    font-family: Arial;
+    background-color:rgb(255, 0, 0);
+    padding: 10px; 
+    margin-right: 60px;
+    float: left;
+}
+p.feliz{
+    font-size: 30px;
+
+}
+p.prometo{
+    font-size: 30px;
+}
+.moh{
+    font-size: 30px;
+}
+.pais{
+    font-size: 30px;
+}
+img{
+    font-size: 80px;
+    font-family: Arial;
+    padding: 80px; 
+    float: right; 
+}
+.cabecadebaixo{
+    font-size: 40px;
+    font-family: Arial;
+    background-color:rgb(255, 0, 0);
+    padding: 10px; 
+    margin-right: 300px;
+    text-align: center;
+}
